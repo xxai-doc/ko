@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , 커피 스크립트 구문을 기반으로 몇 가지 기능을 추가하십시오. [coffee_plus 를](./coffee_plus.md) 참조하십시오.
 
-* 변수 선언
+## 변수 선언
 
 ```
 + var1, var2
 ```
 
-* 신고 라벨
+## 신고 라벨
 
 `:$` [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) 와 함께 사용하기 위한 것입니다.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* 빠른 가져오기
+## 빠른 가져오기
 
 ```
 > zx/globals:
